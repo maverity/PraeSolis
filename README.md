@@ -6,5 +6,5 @@ Here's some information about me:
 
 - Age: 17
 - Personality Typology: INTJ 5w4 sp/sx 514
-- Interests: Games, Computers (tech in general)
+- Interests: Technology, Space, Video Games, Writing, Reading
 - Career Goal: Landing a job as a Cybersecurity Engineer and reaching mastery of at least 3 coding languages.
