@@ -1,6 +1,6 @@
 # Meet Solis, the self-proclaimed Phantom Prince.
 
-Hi! I'm Solis, a rookie developer wanting to learn how to code. I'm proud to be able to have this experience of learning something new and something that will give me an advantage when it comes to my skills for the future. I'm a rather ambitious person, but if you get to know me, you'll see that I know how to find the balance between work and fun!
+Hi! I'm Solis, a rookie developer currently learning and gaining mastery of coding languages like Python and C++ to make projects. I'm proud to be able to have this experience of learning something new and something that will give me an advantage when it comes to my skills for the future. I'm a rather ambitious person, but if you get to know me, you'll see that I know how to find the balance between work and fun!
 
 Here's some information about me:
 
