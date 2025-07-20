@@ -1,7 +1,10 @@
 # Welcome to my bio!
-I don't want to give a long paragraph about me so I'll just go straight to the point.
+
+Hi! I'm Solis, a rookie developer wanting to learn how to code. I'm proud to be able to have this experience of learning something new and something that will give me an advantage when it comes to my skills for the future. I'm a rather ambitious person, but if you get to know me, you'll see that I know how to find the balance between work and fun!
+
+Here's some information about me:
 
 - Age: 17
-- Personality Typology: ISTP 5w6 sp/so 583
+- Personality Typology: INTJ 5w4 sp/sx 514
 - Interests: Games, Computers (tech in general)
-- Career Goal: Landing a job as a Software Engineer or Game Designer and reaching mastery of at least 3 coding languages.
+- Career Goal: Landing a job as a Cybersecurity Engineer and reaching mastery of at least 3 coding languages.
