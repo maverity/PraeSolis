@@ -6,4 +6,4 @@ Here's some information about me:
 
 - Personality Typology: ENTJ 1w2 so/sp 153
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
-- Career Goal: Landing a job as a Cybersecurity Engineer and reaching mastery of at least 3 coding languages.
+- Career Goal: Landing a job as a Cybersecurity Engineer and reaching mastery of at least 3 coding languages. Maybe even getting a PhD. too.
