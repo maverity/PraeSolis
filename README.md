@@ -4,5 +4,5 @@ Hi! I'm Verity, a rookie developer currently learning and gaining mastery of cod
 
 Here's some information about me:
 
-- Personality Typology: ENTJ 1w2 so/sp 153
+- Personality Typology: ENTJ 1w2 so/sp 153 RCOEI
 - Interests: Technology, Space, Philosophy, Video Games, Writing, Reading
